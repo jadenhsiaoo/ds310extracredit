@@ -1,0 +1,6 @@
+How to run tutorials 
+
+mvn clean install
+
+java -cp target/cassandra-demo.jar com.azure.cosmosdb.cassandra.examples.UserProfile
+
